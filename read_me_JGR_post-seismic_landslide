@@ -1,0 +1,21 @@
+Table of Contents for Supplementary Data for:
+
+Enhanced Rainfall-Induced Shallow Landslide Activity Following Seismic Disturbance – From Triggering to Healing
+
+Authors: Ben Leshchinsky1, Peter Lehmann2 and Dani Or2
+
+Affilitations:
+1Department of Forest Engineering, Resources and Management, Oregon State University, Corvallis, OR
+2Soil and Terrestrial Environmental Physics, Institute of Biogeochemistry and Pollutant Dynamics, ETH Zurich, Zurich, Switzerland
+
+Published in Journal of Geophysical Research: Earth Surface
+
+Contents in Data and Supplementary Files:
+
+-Model and Code: Basic code for determining rainfall that yields triggering for a given geometry and set of hydromechanical input parameters. (Matlab format)
+-Baseline: Data from Sensitivity Analyses Varying Influence of Baseline Geometry on Triggering. (Matlab format)
+-Antecedent Moisture: Data from Sensitivity Analyses Varying Influence of Antecedent Moisture Conditions on Triggering. (Matlab format)
+-Ruedlingen: Data from modeling of Ruedlingen Landslide. (Matlab format)
+-Shear Softening: Data from Sensitivity Analyses Varying Influence of Shear Softening on Triggering. (Matlab format)
+-Vegetation: Data from Sensitivity Analyses Varying Influence of Root Reinforcement on Triggering. (Matlab format)
+
